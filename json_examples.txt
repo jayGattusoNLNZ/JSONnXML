@@ -1,0 +1,76 @@
+
+#### Basic JSON example ####
+
+{
+   "to": "Dr You",
+   "from": "T'Kehr Me",
+   "date": "Tuesday, 8th May, 2018",
+   "text": "Hello! /nHow are you?"
+}
+
+
+________________________________________________
+
+
+#### Basic collection JSON example ####
+
+[
+   {
+      "to": "Dr You",
+      "from": "T'Kehr Me",
+      "date": "Tuesday, 8th May, 2018",
+      "text": "Hello! /nHow are you?"
+   },
+   {
+      "to": "T'Kehr Me",
+      "from": "Dr You",
+      "date": "Tuesday, 15th May, 2018",
+      "text": "Hi! /nI am fine!"
+   }
+]
+
+
+________________________________________________
+
+
+#### JSON example with attributes ####
+
+Formatted JSON:
+[
+   {
+      "to": {
+         "id": "123",
+         "address": "445 My Street, My Town",
+         "text": "Dr You"
+      },
+      "from": {
+         "id": "234",
+         "address": "58 Under the Bridge, Downtown",
+         "text": "T'Kehr Me"
+      },
+      "date": {
+         "epochdate": "1525724010",
+         "timezone": "New Zealand Standard Time",
+         "text": "Tuesday, 8th May, 2018"
+      },
+      "text": "Hello! /nHow are you?"
+   },
+   {
+      "to": {
+         "id": "234",
+         "address": "58 Under the Bridge, Downtown",
+         "text": "T'Kehr Me"
+      },
+      "from": {
+         "id": "123",
+         "address": "445 My Street, My Town",
+         "text": "Dr You"
+      },
+      "date": {
+         "epochdate": "1526328810",
+         "timezone": "New Zealand Standard Time",
+         "text": "Tuesday, 15th May, 2018"
+      },
+      "text": "Hi! /nI am fine!"
+   }
+]

@@ -1,0 +1,36 @@
+Basic XML example
+
+<?xml version="1.0" encoding="UTF-8"?>
+<letters>
+    <letter>
+        <to>Dr You</to>
+        <from>T'Kehr Me</from>
+        <date>Tuesday, 8th May, 2018</date>
+        <text/>
+    </letter>
+    <letter>
+        <to>T'Kehr Me</to>
+        <from>Dr You</from>
+        <date>Tuesday, 15th May, 2018</date>
+        <text/>
+    </letter>
+</letters>
+
+
+XML example with attributes
+
+<?xml version="1.0" encoding="UTF-8"?>
+<letters>
+    <letter>
+        <to id="123" address="445 My Street, My Town">Dr You</to>
+        <from id="234"  address="58 Under the Bridge, Downtown">T'Kehr Me</from>
+        <date epochdate="1525724010" timezone="New Zealand Standard Time">Tuesday, 8th May, 2018</date>
+        <text/>
+    </letter>
+    <letter>
+        <to id="234" address="58 Under the Bridge, Downtown">T'Kehr Me</to>
+        <from id="123" address="445 My Street, My Town">Dr You</from>
+        <date epochdate="1526328810" timezone="New Zealand Standard Time">Tuesday, 15th May, 2018</date>
+        <text/>
+    </letter>
+</letters>

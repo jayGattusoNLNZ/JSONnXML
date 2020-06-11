@@ -1,0 +1,1836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<eac-cpf xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-33-4">
+ <control>
+  <recordId>Thesaurus-80955</recordId>
+  <maintenanceStatus>new</maintenanceStatus>
+  <publicationStatus>approved</publicationStatus>
+  <maintenanceAgency>
+   <agencyCode>NZ-WTU</agencyCode>
+   <agencyName>Alexander Turnbull Library, Wellington, New Zealand</agencyName>
+  </maintenanceAgency>
+  <languageDeclaration>
+   <language languageCode="eng">English</language>
+   <script scriptCode="Latn">Latin</script>
+  </languageDeclaration>
+  <conventionDeclaration>
+   <abbreviation>ISAAR(CPF)</abbreviation>
+   <citation>International Standard Archival Authority Record for Corporate Bodies, Person and Families, 2nd Edit</citation>
+  </conventionDeclaration>
+  <maintenanceHistory>
+   <maintenanceEvent>
+    <eventType>created</eventType>
+    <eventDateTime standardDateTime="1992-05-26T10:57:59">1992-05-26T10:57:59</eventDateTime>
+    <agentType>human</agentType>
+    <agent>Alexander Turnbull Library staff</agent>
+   </maintenanceEvent>
+   <maintenanceEvent>
+    <eventType>updated</eventType>
+    <eventDateTime standardDateTime="2018-08-15T13:05:17">2018-08-15T13:05:17</eventDateTime>
+    <agentType>human</agentType>
+    <agent>Alexander Turnbull Library staff</agent>
+   </maintenanceEvent>
+  </maintenanceHistory>
+  <sources>
+   <source>
+    <sourceEntry>"Our History". 'National Library of New Zealand'. https://natlib.govt.nz/about-us/our-history accessed 2 August 2018</sourceEntry>
+   </source>
+  </sources>
+ </control>
+ <cpfDescription>
+  <identity>
+   <entityType>corporateBody</entityType>
+   <nameEntry>
+    <part>National Library of New Zealand</part>
+   </nameEntry>
+  </identity>
+  <description>
+   <existDates>
+    <dateRange>
+     <fromDate standardDate="1965">1965</fromDate>
+    </dateRange>
+   </existDates>
+   <biogHist>
+    <p>National Library Act (1965) brought together the General Assembly Library, the  Alexander Turnbull Library and the National Library Service to form the National Library of New Zealand. Located at Molesworth Street, Wellington. Building officially opened in August 1987.</p>
+   </biogHist>
+  </description>
+  <relations>
+   <cpfRelation cpfRelationType="hierarchical" xlink:href="https://tiaki.natlib.govt.nz/#details=ethesaurus." xlink:type="simple">
+    <relationEntry>Alexander Turnbull Library</relationEntry>
+   </cpfRelation>
+   <cpfRelation cpfRelationType="hierarchical" xlink:href="https://tiaki.natlib.govt.nz/#details=ethesaurus." xlink:type="simple">
+    <relationEntry>New Zealand. General Assembly Library</relationEntry>
+   </cpfRelation>
+   <cpfRelation cpfRelationType="temporal" xlink:href="https://tiaki.natlib.govt.nz/#details=ethesaurus." xlink:type="simple">
+    <relationEntry>New Zealand. National Library Service</relationEntry>
+    <descriptiveNote>
+     <p>Successor</p>
+    </descriptiveNote>
+   </cpfRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.87571" xlink:type="simple">
+    <relationEntry>MS-Papers-1403-048/2</relationEntry>
+    <descriptiveNote>
+     <p>Cabinet Committee - National Library</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.89856" xlink:type="simple">
+    <relationEntry>MS-Papers-1403-233/4</relationEntry>
+    <descriptiveNote>
+     <p>Representations to the Minister - Site for National Library</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.100416" xlink:type="simple">
+    <relationEntry>95-249-1/06</relationEntry>
+    <descriptiveNote>
+     <p>Draft chapters for the proposed McEldowney festschrift</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.128098" xlink:type="simple">
+    <relationEntry>97-002-18/12</relationEntry>
+    <descriptiveNote>
+     <p>National Library of New Zealand (14.4)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.129220" xlink:type="simple">
+    <relationEntry>MS-Papers-5780-22</relationEntry>
+    <descriptiveNote>
+     <p>The Price Waterhouse report on the National Library</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.129222" xlink:type="simple">
+    <relationEntry>MS-Papers-5780-23</relationEntry>
+    <descriptiveNote>
+     <p>The Price Waterhouse report on the National Library</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.138709" xlink:type="simple">
+    <relationEntry>88-174-37/03</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence - National Library</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.187024" xlink:type="simple">
+    <relationEntry>MS-Papers-6429</relationEntry>
+    <descriptiveNote>
+     <p>O'Reilly, Ronald Norris, 1914-1982 : Papers</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.207502" xlink:type="simple">
+    <relationEntry>MS-Papers-6710-04</relationEntry>
+    <descriptiveNote>
+     <p>Miscellaneous articles about Adrienne Simpson</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.339619" xlink:type="simple">
+    <relationEntry>2003-228-01</relationEntry>
+    <descriptiveNote>
+     <p>Papers relating to the Alexander Turnbull Library</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.297879" xlink:type="simple">
+    <relationEntry>PA1-o-847-88-4</relationEntry>
+    <descriptiveNote>
+     <p>New Zealand Country Library Service bookvan about to leave Huinga</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.297882" xlink:type="simple">
+    <relationEntry>PA1-o-847-34-4</relationEntry>
+    <descriptiveNote>
+     <p>Three women choosing books at Rahotu</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.316625" xlink:type="simple">
+    <relationEntry>MS-Papers-7623-416</relationEntry>
+    <descriptiveNote>
+     <p>National Library of New Zealand</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.800140" xlink:type="simple">
+    <relationEntry>MS-Papers-11902-035</relationEntry>
+    <descriptiveNote>
+     <p>Listing of programmes</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.339621" xlink:type="simple">
+    <relationEntry>2003-228-02</relationEntry>
+    <descriptiveNote>
+     <p>Papers relating to the Alexander Turnbull Library</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.346193" xlink:type="simple">
+    <relationEntry>2003-349-52</relationEntry>
+    <descriptiveNote>
+     <p>Various papers</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.351883" xlink:type="simple">
+    <relationEntry>2004-075-06/1</relationEntry>
+    <descriptiveNote>
+     <p>Papers</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.380589" xlink:type="simple">
+    <relationEntry>MS-Papers-8181-119</relationEntry>
+    <descriptiveNote>
+     <p>Papers relating to the restructuring of the National Library of New Zealand</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.97176" xlink:type="simple">
+    <relationEntry>E-498-009-a</relationEntry>
+    <descriptiveNote>
+     <p>Cooper, Alfred John  1831-1869 :Ahi Raranga, Mohaka.  1861. [Card].  National Library of New Zealand, 1995.</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.476955" xlink:type="simple">
+    <relationEntry>2006-261-04</relationEntry>
+    <descriptiveNote>
+     <p>Papers relating to the Public Affairs Convenor</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.495442" xlink:type="simple">
+    <relationEntry>2007-116-109</relationEntry>
+    <descriptiveNote>
+     <p>Molesworth Street - Numbers 42-180</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.495894" xlink:type="simple">
+    <relationEntry>2007-116-187</relationEntry>
+    <descriptiveNote>
+     <p>Wellington - Builders</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.517751" xlink:type="simple">
+    <relationEntry>MS-Papers-9114-17</relationEntry>
+    <descriptiveNote>
+     <p>Silent migration - Launch of exhibition</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.775871" xlink:type="simple">
+    <relationEntry>Eph-A-BOOKMARKS-Harvey</relationEntry>
+    <descriptiveNote>
+     <p>[Bookmarks donated by Dr Ross Harvey in 2013. 1970-2000s?]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.758142" xlink:type="simple">
+    <relationEntry>MS-Papers-11405-04</relationEntry>
+    <descriptiveNote>
+     <p>General correspondence</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.792957" xlink:type="simple">
+    <relationEntry>MS-Papers-11828-84</relationEntry>
+    <descriptiveNote>
+     <p>Notes on publication</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.795517" xlink:type="simple">
+    <relationEntry>MS-Papers-11863-1</relationEntry>
+    <descriptiveNote>
+     <p>Papers relating to Poet Laureate duties</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.800626" xlink:type="simple">
+    <relationEntry>MS-Papers-11923-27</relationEntry>
+    <descriptiveNote>
+     <p>Exhibitions on Katherine Mansfield</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.804451" xlink:type="simple">
+    <relationEntry>Eph-A-NATIONAL-LIBRARY</relationEntry>
+    <descriptiveNote>
+     <p>National Library of New Zealand :[Ephemera of octavo size]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.21796" xlink:type="simple">
+    <relationEntry>MSX-2897-2898</relationEntry>
+    <descriptiveNote>
+     <p>Jones, Michael : National Library study and design reports</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.376205" xlink:type="simple">
+    <relationEntry>2004-284-13</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence and financial records</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.793693" xlink:type="simple">
+    <relationEntry>MS-Papers-11647-1</relationEntry>
+    <descriptiveNote>
+     <p>Typescripts of articles by Dorothy Freed</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.779046" xlink:type="simple">
+    <relationEntry>MS-Papers-11638-18</relationEntry>
+    <descriptiveNote>
+     <p>Richard Dell - Papers</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.597626" xlink:type="simple">
+    <relationEntry>MS-Papers-9733-033</relationEntry>
+    <descriptiveNote>
+     <p>Working papers, correspondence abnd funding applications</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.122701" xlink:type="simple">
+    <relationEntry>PA12-1196</relationEntry>
+    <descriptiveNote>
+     <p>Photographs of The School Library Service Tawa</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.252168" xlink:type="simple">
+    <relationEntry>2001-190-2/04</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence - N, Frank Newcombe</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.970151" xlink:type="simple">
+    <relationEntry>Eph-C-GENEALOGY-1970/2019</relationEntry>
+    <descriptiveNote>
+     <p>[Ephemera of A3 size relating to genealogy, family history, in New Zealand. 1970-2019]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.52346" xlink:type="simple">
+    <relationEntry>PA12-0017</relationEntry>
+    <descriptiveNote>
+     <p>Interior views of National Library building</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.52351" xlink:type="simple">
+    <relationEntry>PA12-0018</relationEntry>
+    <descriptiveNote>
+     <p>Interior views of National Library building</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.594267" xlink:type="simple">
+    <relationEntry>MS-Papers-9733-022</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence - I-M</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.280378" xlink:type="simple">
+    <relationEntry>MS-Papers-7403-16</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence (N)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.347118" xlink:type="simple">
+    <relationEntry>2002-379-296</relationEntry>
+    <descriptiveNote>
+     <p>Working file</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.80760" xlink:type="simple">
+    <relationEntry>PAColl-2030</relationEntry>
+    <descriptiveNote>
+     <p>Kawharu, Margaret :Photographs of the "Nga Kupu Korero - The People of the Treaty Speak" team</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.800138" xlink:type="simple">
+    <relationEntry>MS-Papers-11902-034</relationEntry>
+    <descriptiveNote>
+     <p>Listing of programmes</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.250676" xlink:type="simple">
+    <relationEntry>MS-Papers-7118-063</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence (N)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.1856" xlink:type="simple">
+    <relationEntry>Series-0661</relationEntry>
+    <descriptiveNote>
+     <p>Series 1   National Library of New Zealand</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.4710" xlink:type="simple">
+    <relationEntry>Series-3779</relationEntry>
+    <descriptiveNote>
+     <p>Series 7  Government department restructuring</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.4349" xlink:type="simple">
+    <relationEntry>Series-3395</relationEntry>
+    <descriptiveNote>
+     <p>01  Working files</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.45229" xlink:type="simple">
+    <relationEntry>Plans-88-0043</relationEntry>
+    <descriptiveNote>
+     <p>Hoskins, Gerald R :Turnbull Room [National Library of New Zealand, Wellington]  1974</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.102699" xlink:type="simple">
+    <relationEntry>MS-Papers-5428-25</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence - N-O</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.122700" xlink:type="simple">
+    <relationEntry>PA12-1195</relationEntry>
+    <descriptiveNote>
+     <p>Photographs of The School Library Service and public libraries</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.346182" xlink:type="simple">
+    <relationEntry>2003-349-45</relationEntry>
+    <descriptiveNote>
+     <p>Inward and outward correspondence (N)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.343514" xlink:type="simple">
+    <relationEntry>2003-333-09</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence and papers to Maori music and other projects (d)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.58869" xlink:type="simple">
+    <relationEntry>93-180-09/5</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence - National Library and MWWL Playcentre Assistance</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.929901" xlink:type="simple">
+    <relationEntry>MS-Papers-12111-03</relationEntry>
+    <descriptiveNote>
+     <p>Assorted papers including correspondence and reports</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.346462" xlink:type="simple">
+    <relationEntry>Eph-D-NATIONAL-LIBRARY-1998-01</relationEntry>
+    <descriptiveNote>
+     <p>New Zealand Symphony Orchestra :Festival francais, 6-21 March, Wellington. Katherine Mansfield manuscripts and "Regards croises - early French images of New Zealand". 1st floor, National Library. AFAA, French Ministry of Foreign Affairs. This sign provided by Wellington Screen Print [1998].</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.122870" xlink:type="simple">
+    <relationEntry>PA12-1204</relationEntry>
+    <descriptiveNote>
+     <p>Photographs of school libraries and of school children using school libraries</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.743664" xlink:type="simple">
+    <relationEntry>Eph-A-TRADE-CARDS-2012-4</relationEntry>
+    <descriptiveNote>
+     <p>[Membership tickets and loyalty cards. Published ca 1995-2012]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.460385" xlink:type="simple">
+    <relationEntry>Eph-A-PAPER-2006-01</relationEntry>
+    <descriptiveNote>
+     <p>[The last paper napkin issued for use in the Pyramid, staff tearoom, National Library of New Zealand. 23 March 2006]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.793762" xlink:type="simple">
+    <relationEntry>MS-Papers-11839-003</relationEntry>
+    <descriptiveNote>
+     <p>Papers relating to National Gathering (1970)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.274021" xlink:type="simple">
+    <relationEntry>2002-070-02</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence and general file</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.261424" xlink:type="simple">
+    <relationEntry>91-300-16</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence (N-Q)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.182618" xlink:type="simple">
+    <relationEntry>MS-Papers-6371-13</relationEntry>
+    <descriptiveNote>
+     <p>Inward and outward correspondence</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.761151" xlink:type="simple">
+    <relationEntry>MS-Papers-11456-01</relationEntry>
+    <descriptiveNote>
+     <p>Subject folders</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.297884" xlink:type="simple">
+    <relationEntry>PA1-o-847-4-3</relationEntry>
+    <descriptiveNote>
+     <p>New Zealand Country Library Service bookvan at Waitotara</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.534450" xlink:type="simple">
+    <relationEntry>PADL-000258</relationEntry>
+    <descriptiveNote>
+     <p>Interior photographs of the Lower Ground Floor public areas, National Library building</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.785026" xlink:type="simple">
+    <relationEntry>PADL-000931</relationEntry>
+    <descriptiveNote>
+     <p>Configuring 3D printer at the National Library of New Zealand</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.99606" xlink:type="simple">
+    <relationEntry>95-232-7/5</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence and papers relating to the National Library  (AD20-06-1  v1)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.105032" xlink:type="simple">
+    <relationEntry>A-304-019</relationEntry>
+    <descriptiveNote>
+     <p>Fleming, Charles Alexander (Sir)  1916-1987 : For us the new and old combine, to make a home and life that's fine. [Montage for Christmas card, December 1971].  1971.</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.107016" xlink:type="simple">
+    <relationEntry>MS-Papers-5378-354</relationEntry>
+    <descriptiveNote>
+     <p>Oxford history of New Zealand music (3)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.110371" xlink:type="simple">
+    <relationEntry>PA1-o-845</relationEntry>
+    <descriptiveNote>
+     <p>Travels of a Country Library service Bookvan; Lower Northland</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.119020" xlink:type="simple">
+    <relationEntry>MS-Papers-5640-063</relationEntry>
+    <descriptiveNote>
+     <p>John Cawte Beaglehole and the well printed book</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.143774" xlink:type="simple">
+    <relationEntry>PA1-o-844</relationEntry>
+    <descriptiveNote>
+     <p>Travels of a Country Library Service Bookvan; Hawke's Bay Trip, November-December 1970</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.144025" xlink:type="simple">
+    <relationEntry>PA1-o-849</relationEntry>
+    <descriptiveNote>
+     <p>Travels of a Country Library Service Bookvan; Bay of Plenty-Coromandel trips, 1973</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.62816" xlink:type="simple">
+    <relationEntry>PAColl-1876</relationEntry>
+    <descriptiveNote>
+     <p>Claridge, Aileen :Photographs showing the National Library Building, before Molesworth Street</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.159601" xlink:type="simple">
+    <relationEntry>Eph-B-NATIONAL-LIBRARY-1998-01</relationEntry>
+    <descriptiveNote>
+     <p>Short Black Cafe :Short Black. [Logo. 1998].</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.186750" xlink:type="simple">
+    <relationEntry>MS-Papers-6373-37</relationEntry>
+    <descriptiveNote>
+     <p>Historic Records Search papers</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.186192" xlink:type="simple">
+    <relationEntry>MS-Papers-6373-32</relationEntry>
+    <descriptiveNote>
+     <p>Miscellaneous Maori papers</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.219532" xlink:type="simple">
+    <relationEntry>MS-Papers-6809-03</relationEntry>
+    <descriptiveNote>
+     <p>Personal and music-related correspondence (b)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.230738" xlink:type="simple">
+    <relationEntry>MS-Papers-6912-029</relationEntry>
+    <descriptiveNote>
+     <p>Creative writing courses and Posted love exhibition</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.254827" xlink:type="simple">
+    <relationEntry>2001-162-241</relationEntry>
+    <descriptiveNote>
+     <p>File relating to libraries</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.256320" xlink:type="simple">
+    <relationEntry>Plans-81-0628</relationEntry>
+    <descriptiveNote>
+     <p>Brickell, Moss, Rankine &amp; Hill :National Library of New Zealand - Wellington. [1972]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.256321" xlink:type="simple">
+    <relationEntry>Plans-81-0629</relationEntry>
+    <descriptiveNote>
+     <p>Brickell, Moss, Rankine &amp; Hill :National Library of New Zealand - Wellington. [1972]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.256322" xlink:type="simple">
+    <relationEntry>Plans-81-0630</relationEntry>
+    <descriptiveNote>
+     <p>Brickell, Moss, Rankine &amp; Hill :National Library of New Zealand - Wellington. Second floor. [1972]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.256323" xlink:type="simple">
+    <relationEntry>Plans-81-0631</relationEntry>
+    <descriptiveNote>
+     <p>Brickell, Moss, Rankine &amp; Hill :National Library of New Zealand - Wellington. First floor. [1972]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.256325" xlink:type="simple">
+    <relationEntry>Plans-81-0632</relationEntry>
+    <descriptiveNote>
+     <p>Brickell, Moss, Rankine &amp; Hill :National Library of New Zealand - Wellington. Ground floor. [1972]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.256326" xlink:type="simple">
+    <relationEntry>Plans-81-0633</relationEntry>
+    <descriptiveNote>
+     <p>Brickell, Moss, Rankine &amp; Hill :National Library of New Zealand - Wellington. Lower ground floor. [1972]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.256328" xlink:type="simple">
+    <relationEntry>Plans-81-0634</relationEntry>
+    <descriptiveNote>
+     <p>Brickell, Moss, Rankine &amp; Hill :National Library of New Zealand - Wellington. Basement. [1972]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.256329" xlink:type="simple">
+    <relationEntry>Plans-81-0635</relationEntry>
+    <descriptiveNote>
+     <p>Brickell, Moss, Rankine &amp; Hill :National Library of New Zealand - Wellington. [1972]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.259438" xlink:type="simple">
+    <relationEntry>OHColl-0567/1</relationEntry>
+    <descriptiveNote>
+     <p>Interview with Barbara Birkbeck</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.267787" xlink:type="simple">
+    <relationEntry>OHInt-0484-15</relationEntry>
+    <descriptiveNote>
+     <p>Interview with Wyn Hoadley</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.291647" xlink:type="simple">
+    <relationEntry>88-103-2/19B</relationEntry>
+    <descriptiveNote>
+     <p>Submissions etc on the National Library of New Zealand Bill</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.297799" xlink:type="simple">
+    <relationEntry>PA1-o-848-36-2</relationEntry>
+    <descriptiveNote>
+     <p>National Library Bookvan encampment</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.297809" xlink:type="simple">
+    <relationEntry>PA1-o-847-8-3</relationEntry>
+    <descriptiveNote>
+     <p>People selecting books in a Country Library Service Bookvan</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.297846" xlink:type="simple">
+    <relationEntry>PA1-o-847-66-4</relationEntry>
+    <descriptiveNote>
+     <p>Child photographed against shelves of books</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.306831" xlink:type="simple">
+    <relationEntry>MS-Papers-7642-006</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence with universities and libraries</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.309650" xlink:type="simple">
+    <relationEntry>OHInt-0647/36</relationEntry>
+    <descriptiveNote>
+     <p>The National Library ; resource for the future 1987</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.310169" xlink:type="simple">
+    <relationEntry>2003-064-06</relationEntry>
+    <descriptiveNote>
+     <p>Reports and background papers etc</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.67103" xlink:type="simple">
+    <relationEntry>Micro-Art-032</relationEntry>
+    <descriptiveNote>
+     <p>[Ministry of Works] :[Plans for] National Library Stage II [Corner Molesworth &amp; Aitken Streets]  1977</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.404685" xlink:type="simple">
+    <relationEntry>1/2-222579-F</relationEntry>
+    <descriptiveNote>
+     <p>National Library Mural 1970 by John Drawbridge</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.442682" xlink:type="simple">
+    <relationEntry>Eph-B-TELEVISION-2005-01</relationEntry>
+    <descriptiveNote>
+     <p>Television New Zealand :Test the Nation; the great New Zealand test. LIBRARIANS [Table sign. 2005].</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.189226" xlink:type="simple">
+    <relationEntry>PAColl-5854</relationEntry>
+    <descriptiveNote>
+     <p>Palmer, Jill :Photographs of Alexander Turnbull Library display on Cara Kelson</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.97175" xlink:type="simple">
+    <relationEntry>E-498-009</relationEntry>
+    <descriptiveNote>
+     <p>Cooper, Alfred John  1831-1869 :Ahi Raranga, Mohaka.  1861. [Card].  National Library of New Zealand, 1995.</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.482691" xlink:type="simple">
+    <relationEntry>MS-Papers-8732-198</relationEntry>
+    <descriptiveNote>
+     <p>Papers relating to Alexander Turnbull Library and National Library of New Zealand</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.487409" xlink:type="simple">
+    <relationEntry>MS-Papers-8782-31</relationEntry>
+    <descriptiveNote>
+     <p>Papers relating to public radio</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.487413" xlink:type="simple">
+    <relationEntry>MS-Papers-8782-35</relationEntry>
+    <descriptiveNote>
+     <p>Papers relating to proposed restructuring of National Library</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.507157" xlink:type="simple">
+    <relationEntry>MS-Papers-8970-213</relationEntry>
+    <descriptiveNote>
+     <p>An Inward sun - Exhibition</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.511144" xlink:type="simple">
+    <relationEntry>MS-Papers-9029-102</relationEntry>
+    <descriptiveNote>
+     <p>Learning to read - Notes for a lecture</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.569703" xlink:type="simple">
+    <relationEntry>Pan-2850-F</relationEntry>
+    <descriptiveNote>
+     <p>National Library portrait group</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.744912" xlink:type="simple">
+    <relationEntry>MS-Papers-11115-141</relationEntry>
+    <descriptiveNote>
+     <p>Kaitiaki/Guardians</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.373610" xlink:type="simple">
+    <relationEntry>MS-Papers-8044-332</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence, notes, etc relating to launches, festivals and events</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.748489" xlink:type="simple">
+    <relationEntry>Eph-D-ARCHIVES-1990-01</relationEntry>
+    <descriptiveNote>
+     <p>National Library of New Zealand :1990 historic record search; Te putea korero.  A pilot project in the Wairarapa. Your gift to future generations. [Sponsored by] National Library of New Zealand [and] New Zealand 1990 Commission - Te Komihana o 1990 [1990]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.788465" xlink:type="simple">
+    <relationEntry>MS-Papers-11778-07</relationEntry>
+    <descriptiveNote>
+     <p>National Library lunchtime concerts - Proposal</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.788678" xlink:type="simple">
+    <relationEntry>MS-Papers-11651-407</relationEntry>
+    <descriptiveNote>
+     <p>Papers relating to Library work</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.792282" xlink:type="simple">
+    <relationEntry>MS-Papers-11835</relationEntry>
+    <descriptiveNote>
+     <p>McEldowney, Walter John, 1921-2015: The National Library and the University Libraries</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.147710" xlink:type="simple">
+    <relationEntry>OHColl-0287/1</relationEntry>
+    <descriptiveNote>
+     <p>Recording of Launch of the Oxford History of New Zealand Music</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.294286" xlink:type="simple">
+    <relationEntry>PAColl-7157</relationEntry>
+    <descriptiveNote>
+     <p>Photographs of the move to the new building</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.297888" xlink:type="simple">
+    <relationEntry>PAColl-0522-1-02</relationEntry>
+    <descriptiveNote>
+     <p>Interior view of the School Library Service, Auckland</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.147896" xlink:type="simple">
+    <relationEntry>OHInt-0058/11</relationEntry>
+    <descriptiveNote>
+     <p>Interview with Jean Struthers Wright</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.45032" xlink:type="simple">
+    <relationEntry>Plans-85-0356/0411</relationEntry>
+    <descriptiveNote>
+     <p>William Pearson &amp; Associates :National Library of New Zealand ; conversion of Free Lance Building, 1971-1972</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.97169" xlink:type="simple">
+    <relationEntry>E-498-006</relationEntry>
+    <descriptiveNote>
+     <p>Fox, William  1812-1893:Bird's eye view of Waitoi [Picton] 1848. [Card].  National Library of New Zealand, 1995.</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.97170" xlink:type="simple">
+    <relationEntry>E-498-006-a</relationEntry>
+    <descriptiveNote>
+     <p>Fox, William  1812-1893:Bird's eye view of Waitoi [Picton] 1848. [Card].  National Library of New Zealand, 1995.</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.97171" xlink:type="simple">
+    <relationEntry>E-498-007</relationEntry>
+    <descriptiveNote>
+     <p>Heaphy, Charles  1820-1881 :Kauri forest, Wairoa River, Kaipara  1839.  [Card]. National Library of New Zealand, 1995.</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.97172" xlink:type="simple">
+    <relationEntry>E-498-007-a</relationEntry>
+    <descriptiveNote>
+     <p>Heaphy, Charles  1820-1881 :Kauri forest, Wairoa River, Kaipara  1839.  [Card]. National Library of New Zealand, 1995.</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.97173" xlink:type="simple">
+    <relationEntry>E-498-008</relationEntry>
+    <descriptiveNote>
+     <p>Hurley, Frank  1885-1962 :The SS Endurance tilted by ice pressure  1915.  [Card].  National Library of New Zealand, 1995.</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.97174" xlink:type="simple">
+    <relationEntry>E-498-008-a</relationEntry>
+    <descriptiveNote>
+     <p>Hurley, Frank  1885-1962 :The SS Endurance tilted by ice pressure  1915.  [Card].  National Library of New Zealand, 1995.</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.97606" xlink:type="simple">
+    <relationEntry>E-498-010</relationEntry>
+    <descriptiveNote>
+     <p>Raper, George  ca 1767-1797 :Arethusa [The emu.  1788-1790].</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.97607" xlink:type="simple">
+    <relationEntry>E-498-010-a</relationEntry>
+    <descriptiveNote>
+     <p>Raper, George  ca 1767-1797 :Arethusa [The emu.  1788-1790].</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.97686" xlink:type="simple">
+    <relationEntry>E-498-012</relationEntry>
+    <descriptiveNote>
+     <p>Strutt, William  1825-1915 :A group I once saw in Maoriland, New Plymouth  1856.  [Wellington], National Library of New Zealand, [1995].</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.97687" xlink:type="simple">
+    <relationEntry>E-498-012-a</relationEntry>
+    <descriptiveNote>
+     <p>Strutt, William  1825-1915 :A group I once saw in Maoriland, New Plymouth  1856.  [Wellington], National Library of New Zealand, [1995].</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.97691" xlink:type="simple">
+    <relationEntry>E-498-013</relationEntry>
+    <descriptiveNote>
+     <p>Book of Hours  1555.  Besancon, France.  [Wellington], National Library of New Zealand, [1995].</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.97694" xlink:type="simple">
+    <relationEntry>E-498-013-a</relationEntry>
+    <descriptiveNote>
+     <p>Book of Hours  1555.  Besancon, France.  [Wellington], National Library of New Zealand, [1995].</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.186615" xlink:type="simple">
+    <relationEntry>PAColl-5801-3</relationEntry>
+    <descriptiveNote>
+     <p>Turnbull Library events</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.802686" xlink:type="simple">
+    <relationEntry>Eph-D-EYEWORK-NLNZ</relationEntry>
+    <descriptiveNote>
+     <p>Eyework Design &amp; Production :[Ephemera, posters commissioned for the National Library of New Zealand. 1990-1994]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.786834" xlink:type="simple">
+    <relationEntry>Eph-D-MAORI-2014-01</relationEntry>
+    <descriptiveNote>
+     <p>New Zealand Post :Matariki 2014. Cliff Whiting. 80c Matariki Papatuanuku and Ranginui, Aotearoa New Zealand 2014. [Facebook]/NZStampsandCoins; nzpost.co.nz/matariki2014</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.334222" xlink:type="simple">
+    <relationEntry>PAColl-7653</relationEntry>
+    <descriptiveNote>
+     <p>Retter, David Charles, 1955- :Photographs of visit to National Library building by Alexander Turnbull Library staff, November 1986</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.347109" xlink:type="simple">
+    <relationEntry>2002-379-291</relationEntry>
+    <descriptiveNote>
+     <p>Summaries of meetings</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.347115" xlink:type="simple">
+    <relationEntry>2002-379-294</relationEntry>
+    <descriptiveNote>
+     <p>Working file</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.789565" xlink:type="simple">
+    <relationEntry>Eph-A-TRADE-CARDS-2014-1</relationEntry>
+    <descriptiveNote>
+     <p>[Trade cards, business cards collected by Ellen Ellis. 2000-2009]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.220964" xlink:type="simple">
+    <relationEntry>MS-Papers-6823-4</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence, constitution and other papers</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.78395" xlink:type="simple">
+    <relationEntry>MS-Papers-5119</relationEntry>
+    <descriptiveNote>
+     <p>Murray-Oliver, Anthony Audrey St Clair Murray  1915-1986 : Letter to unknown person relating to the Alexander Turnbull Library</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.143715" xlink:type="simple">
+    <relationEntry>PA1-o-842</relationEntry>
+    <descriptiveNote>
+     <p>Travels of a Country Library service Bookvan; National Park trip January, February, March 1971</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.122787" xlink:type="simple">
+    <relationEntry>PA12-1200</relationEntry>
+    <descriptiveNote>
+     <p>Photographs of The School Library Service</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.94402" xlink:type="simple">
+    <relationEntry>2003-333-08</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence and papers to Maori radio and other projects (c)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.250685" xlink:type="simple">
+    <relationEntry>MS-Papers-7118-072</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence (T)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.484725" xlink:type="simple">
+    <relationEntry>MS-Papers-8752-030</relationEntry>
+    <descriptiveNote>
+     <p>Personal papers</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.485237" xlink:type="simple">
+    <relationEntry>MS-Papers-8752-039</relationEntry>
+    <descriptiveNote>
+     <p>Personal papers</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.143654" xlink:type="simple">
+    <relationEntry>PA1-o-840</relationEntry>
+    <descriptiveNote>
+     <p>Mobile Library Services and Country Library Services</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.274026" xlink:type="simple">
+    <relationEntry>2002-070-06</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence and general file</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.122752" xlink:type="simple">
+    <relationEntry>PA12-1199</relationEntry>
+    <descriptiveNote>
+     <p>Photographs of The School Library Service and school libraries</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.182619" xlink:type="simple">
+    <relationEntry>MS-Papers-6371-14</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.261192" xlink:type="simple">
+    <relationEntry>90-041-09</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence and related material (L-N)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.102166" xlink:type="simple">
+    <relationEntry>MS-Papers-5421-02</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence (N-W)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.218459" xlink:type="simple">
+    <relationEntry>86-105-033</relationEntry>
+    <descriptiveNote>
+     <p>Papers relating to Lawlor's library</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.82146" xlink:type="simple">
+    <relationEntry>MS-Papers-5146-43</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.798645" xlink:type="simple">
+    <relationEntry>Eph-C-CINEMA-1985/1989</relationEntry>
+    <descriptiveNote>
+     <p>[Ephemera and posters relating to films, motion pictures, cinema. 1985-1989]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.366014" xlink:type="simple">
+    <relationEntry>MS-Papers-8044-108</relationEntry>
+    <descriptiveNote>
+     <p>Inward correspondence and papers (N-Z)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.123136" xlink:type="simple">
+    <relationEntry>PA12-1206</relationEntry>
+    <descriptiveNote>
+     <p>Photographs of The School Library Service, school libraries, and public libraries</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.345575" xlink:type="simple">
+    <relationEntry>MSC-8768</relationEntry>
+    <descriptiveNote>
+     <p>Dreams, yellow lions / [music by] Ross Harris ; poems by Alistair Campbell ; performed by  David Griffiths, baritone, Richard Panting, violin, Josephine Young, cello, Deborah Rawson, soprano saxopohone, June Byng, bass clarinet, David Armstrong, flugelhorn, conducted by Ross Harris</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.748271" xlink:type="simple">
+    <relationEntry>MS-Papers-11115-201</relationEntry>
+    <descriptiveNote>
+     <p>Research notes</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.752822" xlink:type="simple">
+    <relationEntry>MS-Papers-11407</relationEntry>
+    <descriptiveNote>
+     <p>Kaye, George Frederick, 1914-2004 : Papers</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="creatorOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.123210" xlink:type="simple">
+    <relationEntry>PA1-q-594</relationEntry>
+    <descriptiveNote>
+     <p>Photographs of The National Film Library</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.933048" xlink:type="simple">
+    <relationEntry>Eph-A-SEXUAL-HARASSMENT-2000/2019</relationEntry>
+    <descriptiveNote>
+     <p>[Ephemera of octavo size relating to sexual harassment. 2000-2019]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.186945" xlink:type="simple">
+    <relationEntry>MSY-4759</relationEntry>
+    <descriptiveNote>
+     <p>Kotani, Tetsuya, fl 1998 : Report on visit to libraries in Australia and New Zealand</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.19084" xlink:type="simple">
+    <relationEntry>MS-Papers-10704</relationEntry>
+    <descriptiveNote>
+     <p>Clarke, Sandra, 1941- : From basement to basement</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.186682" xlink:type="simple">
+    <relationEntry>Eph-D-HISTORY-SRC-1998-01</relationEntry>
+    <descriptiveNote>
+     <p>Stout Research Centre :Sport, society and culture; Stout Research Centre Conference 1998. The real level playing field? 16-18 October, National Library  of New Zealand [Poster. 1998].</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.203531" xlink:type="simple">
+    <relationEntry>Eph-D-NATIONAL-LIBRARY-1999-01</relationEntry>
+    <descriptiveNote>
+     <p>Evening Post :$1 a book in Nat Library selloff. Plus Designer coffin boom. [Billboard]. Saturday, June 12, 1999.</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.204338" xlink:type="simple">
+    <relationEntry>Eph-D-TURNBULL-1994-01</relationEntry>
+    <descriptiveNote>
+     <p>Dominion :Tuesday May 31 1994. Treasury wants to sell rare collection. [1994].</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.444816" xlink:type="simple">
+    <relationEntry>Eph-D-MUSIC-Jazz-2005-01</relationEntry>
+    <descriptiveNote>
+     <p>Tohu Wines presents The Jazz Supper Club; tribute to the guitar tour. Jack Wilkins, voted and awarded "Best guitarist USA 2001", supported by David Smith. Live at Hummingbird, 30 &amp; 31 March and 6, 7, 8, 9 &amp; 10 April [2005. With addendum] - Wellington Jazz Club - Jack's only full theatre concert in Wellington, Tues 29 March.</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.482913" xlink:type="simple">
+    <relationEntry>Eph-D-ETHNIC-Chinese-2007-01</relationEntry>
+    <descriptiveNote>
+     <p>[Siu Yum Chinese Opera Group] :[Poster for Chinese opera]. Derek Cole Theatre,  Waipuna Hotel, 58 Waipuna Road, Mt Wellington; National Library Auditorium, Molesworth Street, Wellington. 2007.</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.802621" xlink:type="simple">
+    <relationEntry>Eph-E-LOCAL-Wellington-2015-01/03</relationEntry>
+    <descriptiveNote>
+     <p>[Three posters celebrating Capital 150. 2015]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.712123" xlink:type="simple">
+    <relationEntry>Eph-A-PANTOMIME-1980s</relationEntry>
+    <descriptiveNote>
+     <p>[Programmes and other ephemera for pantomimes and pantomime extravaganzas performed in New Zealand. 1980-1989]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.261239" xlink:type="simple">
+    <relationEntry>90-041-14</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence and related material (L-O)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.767776" xlink:type="simple">
+    <relationEntry>EPHDL-0271</relationEntry>
+    <descriptiveNote>
+     <p>Alexander Turnbull Library :Revolting! Panel talks - May 17, 6 pm. Ground floor, National Library. [2013]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.800132" xlink:type="simple">
+    <relationEntry>EPHDL-0328</relationEntry>
+    <descriptiveNote>
+     <p>Toi Whakaari New Zealand Drama School :The National Library of New Zealand and  Toi Whakaari; New Zealand Drama School present "Mau", performed at the National Library of New Zealand. 29, 30, 31 May, 2, 3 June, 5, 6 June [2015]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.82145" xlink:type="simple">
+    <relationEntry>MS-Papers-5146-42</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.440971" xlink:type="simple">
+    <relationEntry>Eph-D-WAITANGI-1900/1999</relationEntry>
+    <descriptiveNote>
+     <p>[Posters relating to the Treaty of Waitangi. 1900-1999]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.297887" xlink:type="simple">
+    <relationEntry>PAColl-0522-1-01</relationEntry>
+    <descriptiveNote>
+     <p>Interior view of the School Library Service, Auckland</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.123170" xlink:type="simple">
+    <relationEntry>PA12-1209</relationEntry>
+    <descriptiveNote>
+     <p>School Library Service, slide-tape sequencefor Riverina College of Advanced Education Course LSC 4305 Assignment 5</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.102174" xlink:type="simple">
+    <relationEntry>MS-Papers-5421-05</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence (I-N)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.143885" xlink:type="simple">
+    <relationEntry>PA1-o-846</relationEntry>
+    <descriptiveNote>
+     <p>Travels of a Country Library Service Bookvan;  Auckland trips</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.143915" xlink:type="simple">
+    <relationEntry>PA1-o-847</relationEntry>
+    <descriptiveNote>
+     <p>Travels of a Country Library Service Bookvan; Taranaki, May-June 1972.</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.723996" xlink:type="simple">
+    <relationEntry>MSDL-1931</relationEntry>
+    <descriptiveNote>
+     <p>Council for Humanities - National Library</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.533751" xlink:type="simple">
+    <relationEntry>PADL-000253</relationEntry>
+    <descriptiveNote>
+     <p>Exterior photographs of National Library building</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.533775" xlink:type="simple">
+    <relationEntry>PADL-000254</relationEntry>
+    <descriptiveNote>
+     <p>Interior photographs of the Ground Floor, National Library building</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.534420" xlink:type="simple">
+    <relationEntry>PADL-000256</relationEntry>
+    <descriptiveNote>
+     <p>Interior photographs of the Alexander Turnbull Library public areas, National Library building</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.122869" xlink:type="simple">
+    <relationEntry>PA12-1203</relationEntry>
+    <descriptiveNote>
+     <p>Photographs of The School Library Service and school and public libraries</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.344422" xlink:type="simple">
+    <relationEntry>MS-Papers-7885-21</relationEntry>
+    <descriptiveNote>
+     <p>Copyright correspondence</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.96170" xlink:type="simple">
+    <relationEntry>95-159-073/2</relationEntry>
+    <descriptiveNote>
+     <p>Education - National Library</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.945723" xlink:type="simple">
+    <relationEntry>MSDL-3679</relationEntry>
+    <descriptiveNote>
+     <p>Outlook mailbox files</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.344987" xlink:type="simple">
+    <relationEntry>PAColl-7798</relationEntry>
+    <descriptiveNote>
+     <p>Delegates to the Pacific Regional Branch of the International Council on Archives(PARBICA) 10 conference, Wellington, 21-26 July 2003</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.212859" xlink:type="simple">
+    <relationEntry>PAColl-6141</relationEntry>
+    <descriptiveNote>
+     <p>Minson, Marian :Alexander Turnbull Library Pictorial Reference Service area, prior to the installation of Image Services</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.144356" xlink:type="simple">
+    <relationEntry>PAColl-5553-1</relationEntry>
+    <descriptiveNote>
+     <p>Sutherland, James Hector: Photographs of the Country Library Service in operation</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.499984" xlink:type="simple">
+    <relationEntry>PAColl-7160-04-1</relationEntry>
+    <descriptiveNote>
+     <p>Bill Pearson and Hone Tuwhare</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.499985" xlink:type="simple">
+    <relationEntry>PAColl-7160-05-1</relationEntry>
+    <descriptiveNote>
+     <p>Bill Pearson, Susan Bartel and Bill Manhire</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.526217" xlink:type="simple">
+    <relationEntry>PAColl-9364</relationEntry>
+    <descriptiveNote>
+     <p>Photograph relating to National Library of New Zealand moving into new building</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.499948" xlink:type="simple">
+    <relationEntry>PAColl-7160-04-2</relationEntry>
+    <descriptiveNote>
+     <p>Bill Pearson and Jim Collinge</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.136004" xlink:type="simple">
+    <relationEntry>PAColl-5439</relationEntry>
+    <descriptiveNote>
+     <p>Sullivan, John Paul, 1948- :Photographs of the farewell afternoon tea for Darea Sherratt, on her retirement from the Alexander Turnbull Library, 28 February 1997</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.144004" xlink:type="simple">
+    <relationEntry>PA1-o-848</relationEntry>
+    <descriptiveNote>
+     <p>Travels of a Country Library Service Bookvan; Waikato trips, 1970s</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.96764" xlink:type="simple">
+    <relationEntry>E-498-005</relationEntry>
+    <descriptiveNote>
+     <p>Butler, Samuel  1835-1902 :Self portrait  ca 1873. [Card.  National Library of New Zealand, 1995].</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.96765" xlink:type="simple">
+    <relationEntry>E-498-005-a</relationEntry>
+    <descriptiveNote>
+     <p>Butler, Samuel  1835-1902 :Self portrait  ca 1873. [Card.  National Library of New Zealand, 1995].</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.97684" xlink:type="simple">
+    <relationEntry>E-498-011</relationEntry>
+    <descriptiveNote>
+     <p>Heaphy, Charles  1820-1881 :Mt Egmont from the southward  1840. [Wellington], National Library of New Zealand, [1995].</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.97685" xlink:type="simple">
+    <relationEntry>E-498-011-a</relationEntry>
+    <descriptiveNote>
+     <p>Heaphy, Charles  1820-1881 :Mt Egmont from the southward  1840. [Wellington], National Library of New Zealand, [1995].</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.182625" xlink:type="simple">
+    <relationEntry>MS-Papers-6371-20</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.147333" xlink:type="simple">
+    <relationEntry>OHInt-0058/10</relationEntry>
+    <descriptiveNote>
+     <p>Interview with Thelma McArtney</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.724035" xlink:type="simple">
+    <relationEntry>EPHDL-0214</relationEntry>
+    <descriptiveNote>
+     <p>Toi Whakaari New Zealand Drama School :Aki. Toi Whakaari in collaboration with  Archives New Zealand and the National Library of New Zealand. Dates Thu 7 - Wed 13 June. Venue Archives New Zealand, 10 Mulgrave St, Thorndon, Wellington [2012]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.767775" xlink:type="simple">
+    <relationEntry>EPHDL-0270</relationEntry>
+    <descriptiveNote>
+     <p>Toi Whakaari New Zealand Drama School :Kauhau. Thu 6 - Wed 12 June, 6.30 &amp; 8.30 pm. Tickets  - koha, donation. Book @ www.toiwhakaari.ac.nz. Toi Whakaari, New Zealand Drama School; Te Puna Matauranga o Aotearoa, National Library of New Zealand, 70 Molesworth Street, Thorndon, Wellington [2013].</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.186393" xlink:type="simple">
+    <relationEntry>PAColl-5801-2</relationEntry>
+    <descriptiveNote>
+     <p>National Library exhibition openings</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.610212" xlink:type="simple">
+    <relationEntry>MS-Group-1901</relationEntry>
+    <descriptiveNote>
+     <p>Bagnall, Austin Graham, 1912-1986 : Further papers</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.106113" xlink:type="simple">
+    <relationEntry>MS-Papers-5378-306</relationEntry>
+    <descriptiveNote>
+     <p>Paul Schramm concert and other events at the National Library</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.89430" xlink:type="simple">
+    <relationEntry>94-106-74/03</relationEntry>
+    <descriptiveNote>
+     <p>Papers and clippings re National Library</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.143648" xlink:type="simple">
+    <relationEntry>PAColl-5553</relationEntry>
+    <descriptiveNote>
+     <p>Sutherland, James Hector :Photographs of the Country Library Service in operation</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.143748" xlink:type="simple">
+    <relationEntry>PA1-o-843</relationEntry>
+    <descriptiveNote>
+     <p>Travels of a Country Library Service Bookvan; East Cape Trip, April and May 1971; September and October 1972</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.215324" xlink:type="simple">
+    <relationEntry>OHColl-0462/1</relationEntry>
+    <descriptiveNote>
+     <p>Interview with Jacob Mataitoga</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.484374" xlink:type="simple">
+    <relationEntry>1/2-030004-F</relationEntry>
+    <descriptiveNote>
+     <p>Head office of the National Library Service, Sydney Street, Wellington - Photograph taken by W Wilson</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.162181" xlink:type="simple">
+    <relationEntry>1/2-033224-F</relationEntry>
+    <descriptiveNote>
+     <p>National Library, Wellington</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.388063" xlink:type="simple">
+    <relationEntry>1/2-222578-F</relationEntry>
+    <descriptiveNote>
+     <p>John Drawbridge in front of his National Library Mural</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.294556" xlink:type="simple">
+    <relationEntry>73-160-5/04</relationEntry>
+    <descriptiveNote>
+     <p>National Library of New Zealand - newsletters</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.294558" xlink:type="simple">
+    <relationEntry>73-160-5/05</relationEntry>
+    <descriptiveNote>
+     <p>National Library of New Zealand - newsletters</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.294560" xlink:type="simple">
+    <relationEntry>73-160-5/06</relationEntry>
+    <descriptiveNote>
+     <p>National Library of New Zealand - newsletters</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.214093" xlink:type="simple">
+    <relationEntry>83-248</relationEntry>
+    <descriptiveNote>
+     <p>Lawlor, Patrick Anthony, 1893-1979 : Further papers</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.217165" xlink:type="simple">
+    <relationEntry>83-248-2</relationEntry>
+    <descriptiveNote>
+     <p>Papers re Alexander Turnbull Library's absorption into the National Library</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.16255" xlink:type="simple">
+    <relationEntry>88-103</relationEntry>
+    <descriptiveNote>
+     <p>Bagnall, Austin Graham, 1912-1986 : Further papers</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.323567" xlink:type="simple">
+    <relationEntry>2002-379-013</relationEntry>
+    <descriptiveNote>
+     <p>Maori language - National Library file</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.380764" xlink:type="simple">
+    <relationEntry>2004-275</relationEntry>
+    <descriptiveNote>
+     <p>Cameron, Laurence Alfred, 1922- : Further papers</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.773551" xlink:type="simple">
+    <relationEntry>2013-251-113</relationEntry>
+    <descriptiveNote>
+     <p>National Library of New Zealand (36/6)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.380897" xlink:type="simple">
+    <relationEntry>2004-275-11/2</relationEntry>
+    <descriptiveNote>
+     <p>Printed material mainly relating to National Library of NZ and other papers</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.128099" xlink:type="simple">
+    <relationEntry>97-002-19/1</relationEntry>
+    <descriptiveNote>
+     <p>National Library of New Zealand  - Building (14.4.2)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.380867" xlink:type="simple">
+    <relationEntry>2004-275-07/8</relationEntry>
+    <descriptiveNote>
+     <p>Papers relating to laying of foundation stone for National Library</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.795530" xlink:type="simple">
+    <relationEntry>MSDL-2293</relationEntry>
+    <descriptiveNote>
+     <p>Outlook mailbox files</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.534435" xlink:type="simple">
+    <relationEntry>PADL-000257</relationEntry>
+    <descriptiveNote>
+     <p>Interior photographs of the Alexander Turnbull Library restricted areas, National Library building</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.534455" xlink:type="simple">
+    <relationEntry>PADL-000259</relationEntry>
+    <descriptiveNote>
+     <p>Interior photographs of the Lower Ground Floor restricted areas, National Library building</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.534466" xlink:type="simple">
+    <relationEntry>PADL-000260</relationEntry>
+    <descriptiveNote>
+     <p>Interior photographs of Basement Floor, National Library building</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.534469" xlink:type="simple">
+    <relationEntry>PADL-000261</relationEntry>
+    <descriptiveNote>
+     <p>Interior and exterior photographs of Third Floor, National Library building</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.231262" xlink:type="simple">
+    <relationEntry>MS-Papers-6912-124</relationEntry>
+    <descriptiveNote>
+     <p>Writing autobiography (a)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.931991" xlink:type="simple">
+    <relationEntry>Pan-2978</relationEntry>
+    <descriptiveNote>
+     <p>National Library staff</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.287400" xlink:type="simple">
+    <relationEntry>OHInt-0109/17</relationEntry>
+    <descriptiveNote>
+     <p>Interview with Ngaroimata Ruhe-Hodge</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.486616" xlink:type="simple">
+    <relationEntry>MS-Papers-8752-050</relationEntry>
+    <descriptiveNote>
+     <p>Personal papers</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.486869" xlink:type="simple">
+    <relationEntry>MS-Papers-8752-052</relationEntry>
+    <descriptiveNote>
+     <p>Personal papers</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.342233" xlink:type="simple">
+    <relationEntry>MS-Papers-7872-5</relationEntry>
+    <descriptiveNote>
+     <p>Papers relating to dendroglyphs on the Chatham Islands</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.51878" xlink:type="simple">
+    <relationEntry>PAColl-2796</relationEntry>
+    <descriptiveNote>
+     <p>Collyns, Moira :One photograph of Moira Collyns at keyboard</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.51158" xlink:type="simple">
+    <relationEntry>NegColl-242</relationEntry>
+    <descriptiveNote>
+     <p>Ministry of Works and Developement :Negatives showing the construction of the National Library of New Zealand Building, Wellington, 1981-1988</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.48576" xlink:type="simple">
+    <relationEntry>PAColl-3147</relationEntry>
+    <descriptiveNote>
+     <p>Nelson Provincial Progress League :Photograph album of images relating to the Nelson-Glenhope railway, 1949</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.45254" xlink:type="simple">
+    <relationEntry>Plans-89-0347/0351</relationEntry>
+    <descriptiveNote>
+     <p>Ministry of Works :National Library of New Zealand / Te Puna Matauranga O Aotearoa, [Molesworth Street] Wellington. [1986?]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.143960" xlink:type="simple">
+    <relationEntry>97-042-01/12</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence - N</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.51133" xlink:type="simple">
+    <relationEntry>PAColl-3180</relationEntry>
+    <descriptiveNote>
+     <p>Jones, Michael :Photographs and negatives showing construction of National Library of New Zealand Building, Molesworth Street, Wellington</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.802269" xlink:type="simple">
+    <relationEntry>Eph-C-SCULPTURE-2015-01</relationEntry>
+    <descriptiveNote>
+     <p>National Library of New Zealand :Maelstrom; fighting for peace. Installation by Yvonne de Mille. 4 August - 4 October 2015, opening 3 August, 6.30 pm. National Library, 70 Molesworth St, Thorndon [2915]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.347586" xlink:type="simple">
+    <relationEntry>90-267-26</relationEntry>
+    <descriptiveNote>
+     <p>Papers - National Library, Turnbull Library, WGA, Commerce Amendment Bill, constituents congratulations, etc</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.137423" xlink:type="simple">
+    <relationEntry>97-042-16/06</relationEntry>
+    <descriptiveNote>
+     <p>Research correspondence for Frank Sargeson; a life</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.186386" xlink:type="simple">
+    <relationEntry>PAColl-5801-1</relationEntry>
+    <descriptiveNote>
+     <p>National Library events</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.510555" xlink:type="simple">
+    <relationEntry>EP/1993/4173-F</relationEntry>
+    <descriptiveNote>
+     <p>Historian Harry Evison studies a South Island sale deed - Photographs taken by Phil Reid</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.444506" xlink:type="simple">
+    <relationEntry>EP-Municipal-Archives &amp; libraries-National Library</relationEntry>
+    <descriptiveNote>
+     <p>National Library of New Zealand</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.262490" xlink:type="simple">
+    <relationEntry>MS-Papers-7247-01</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence (A-O) and unidentified</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.122718" xlink:type="simple">
+    <relationEntry>PA12-1197</relationEntry>
+    <descriptiveNote>
+     <p>Photographs of The School Library Service</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.743119" xlink:type="simple">
+    <relationEntry>Eph-D-NATIONAL-LIBRARY-1980s</relationEntry>
+    <descriptiveNote>
+     <p>National Library of New Zealand :[Posters produced to publicise events, collections, services and exhibitions. 1980-1989]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.696620" xlink:type="simple">
+    <relationEntry>DCDL-0019277</relationEntry>
+    <descriptiveNote>
+     <p>Hubbard, James, 1949- :'Tariana Turia welcomes Govt announcement of new purpose built home for Treaty.' 21 October 2011</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.315370" xlink:type="simple">
+    <relationEntry>MS-Papers-7710-08</relationEntry>
+    <descriptiveNote>
+     <p>Inward and outward correspondence (M-Q)</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.48338" xlink:type="simple">
+    <relationEntry>PAColl-1139</relationEntry>
+    <descriptiveNote>
+     <p>Alexander Turnbull Library Endowment Trust :Photograph of Sir Holmes Miller :Photograph of the National Library of New Zealand taken by Brian Enting</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.48533" xlink:type="simple">
+    <relationEntry>PAColl-3132</relationEntry>
+    <descriptiveNote>
+     <p>Hay, Annette :Two photographs - Alexander Turnbull Library staff in fancy dress; National Library Building</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.80227" xlink:type="simple">
+    <relationEntry>PAColl-4081</relationEntry>
+    <descriptiveNote>
+     <p>Jones, Tim :Photographs of the launching of He Puna Kupu Maori - Maori Word Net (popularly known as "Kupu") at the National Library, Wellington</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.92427" xlink:type="simple">
+    <relationEntry>PAColl-4783</relationEntry>
+    <descriptiveNote>
+     <p>Scott, Peter : Photographs of Peter Scott and National Library activities</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.97215" xlink:type="simple">
+    <relationEntry>PAColl-4911</relationEntry>
+    <descriptiveNote>
+     <p>McArtney, Russell : Photographs of ATL collections being shifted into Atlas House and National Library Building</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.505021" xlink:type="simple">
+    <relationEntry>PAColl-9217</relationEntry>
+    <descriptiveNote>
+     <p>Dell, Sharon, 1951- :Photographs of National Library and Ngoi Pewhairangi</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.544038" xlink:type="simple">
+    <relationEntry>PAColl-D-0585</relationEntry>
+    <descriptiveNote>
+     <p>[Photographer unknown] :Excavation hole for construction of National Library of New Zealand building, Molesworth Street, Wellington</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.534048" xlink:type="simple">
+    <relationEntry>PAColl-D-1198</relationEntry>
+    <descriptiveNote>
+     <p>Cavanagh, Sylvia, fl 1984-2009 :Photograph of National Library of New Zealand construction site, Wellington</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.18282" xlink:type="simple">
+    <relationEntry>MS-Papers-11019</relationEntry>
+    <descriptiveNote>
+     <p>Arlidge, A S : Letters relating to the National Library building, Wellington</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.147603" xlink:type="simple">
+    <relationEntry>OHColl-0198/1</relationEntry>
+    <descriptiveNote>
+     <p>Recording of the Opening of the Molesworth Street Building of the National Library</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.148056" xlink:type="simple">
+    <relationEntry>OHColl-0199/1</relationEntry>
+    <descriptiveNote>
+     <p>National Library of New Zealand: Interviews with staff of the National Library</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.569044" xlink:type="simple">
+    <relationEntry>A-251-027</relationEntry>
+    <descriptiveNote>
+     <p>Lamson Engineering Australia Pty Ltd :National Library Wellington New Zealand [Diagram of telelift system]. Drawing no. A3. TL-102-00. 28/10/85 [1985]</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.122728" xlink:type="simple">
+    <relationEntry>PA12-1198</relationEntry>
+    <descriptiveNote>
+     <p>Photographs of school and other libraries</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.231206" xlink:type="simple">
+    <relationEntry>OHColl-0496</relationEntry>
+    <descriptiveNote>
+     <p>National Library Gallery (N.Z.): Exhibition events programme recordings</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.517956" xlink:type="simple">
+    <relationEntry>OHColl-0904</relationEntry>
+    <descriptiveNote>
+     <p>Manapouri - art, power, protest</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.145000" xlink:type="simple">
+    <relationEntry>OHColl-0197</relationEntry>
+    <descriptiveNote>
+     <p>National Library of New Zealand: Audio and videotapes relating to various events</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="creatorOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.266744" xlink:type="simple">
+    <relationEntry>MSV-0546</relationEntry>
+    <descriptiveNote>
+     <p>Wonderful talking machine / presented by Brian Salkeld and Roger Flury</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="creatorOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.205510" xlink:type="simple">
+    <relationEntry>MST10-0219</relationEntry>
+    <descriptiveNote>
+     <p>Samuel Butler as composer ; presented by David Vine</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.50947" xlink:type="simple">
+    <relationEntry>NegColl-239</relationEntry>
+    <descriptiveNote>
+     <p>35mm film strips of Alexander Turnbull Library staff engaging in conservation activities</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.170461" xlink:type="simple">
+    <relationEntry>PAColl-5695</relationEntry>
+    <descriptiveNote>
+     <p>Alexander Turnbull's birthday celebrations, 13 September, 1994.</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.333241" xlink:type="simple">
+    <relationEntry>PAColl-7643</relationEntry>
+    <descriptiveNote>
+     <p>De Lyon, Paul, 1916-2008 :Photographs of excavation for National Library building, 1975</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.217162" xlink:type="simple">
+    <relationEntry>83-248-1</relationEntry>
+    <descriptiveNote>
+     <p>Papers re Alexander Turnbull Library's absorption into the National Library</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.122848" xlink:type="simple">
+    <relationEntry>PA12-1202</relationEntry>
+    <descriptiveNote>
+     <p>Photographs of schools and school libraries</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.338744" xlink:type="simple">
+    <relationEntry>MS-Papers-7823-2</relationEntry>
+    <descriptiveNote>
+     <p>Loose papers from minute book at MS-Papers-7823-1</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.122871" xlink:type="simple">
+    <relationEntry>PA12-1205</relationEntry>
+    <descriptiveNote>
+     <p>Photographs of school libraries and public libraries</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.122699" xlink:type="simple">
+    <relationEntry>PA12-1194</relationEntry>
+    <descriptiveNote>
+     <p>Photographs of The School Library Service Christmas Lunch</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.776064" xlink:type="simple">
+    <relationEntry>F-094-1/3</relationEntry>
+    <descriptiveNote>
+     <p>New Zealand Motor Bodies Ltd :[Plans for a book van]. 1975</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.272503" xlink:type="simple">
+    <relationEntry>PAColl-6926</relationEntry>
+    <descriptiveNote>
+     <p>Photographer unknown: Laying of National Library foundation stone</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.448203" xlink:type="simple">
+    <relationEntry>PAColl-1553</relationEntry>
+    <descriptiveNote>
+     <p>Simpson, Graeme Brook, 1957- :Records of moving negatives to the National Library building</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.242829" xlink:type="simple">
+    <relationEntry>PAColl-1554</relationEntry>
+    <descriptiveNote>
+     <p>Simpson, Graeme Brook, 1957- :Photos of National Library Building and some staff</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.748128" xlink:type="simple">
+    <relationEntry>PAColl-10036</relationEntry>
+    <descriptiveNote>
+     <p>Photographs relating to Services to Schools, National Library of New Zealand</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.171670" xlink:type="simple">
+    <relationEntry>PAColl-5701</relationEntry>
+    <descriptiveNote>
+     <p>Staff photograph</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.785096" xlink:type="simple">
+    <relationEntry>PADL-000937</relationEntry>
+    <descriptiveNote>
+     <p>Public Service Association (PSA) centenary celebrations, October 2013</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.743359" xlink:type="simple">
+    <relationEntry>PAColl-7327-1-095</relationEntry>
+    <descriptiveNote>
+     <p>Photographic prints relating to law and libraries</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="subjectOf" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.487261" xlink:type="simple">
+    <relationEntry>MS-Papers-8752-055</relationEntry>
+    <descriptiveNote>
+     <p>Personal papers</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.77388" xlink:type="simple">
+    <relationEntry>94-180-1/15</relationEntry>
+    <descriptiveNote>
+     <p>Correspondence</p>
+    </descriptiveNote>
+   </resourceRelation>
+   <resourceRelation resourceRelationType="other" xlink:href="https://tiaki.natlib.govt.nz/#details=ecatalogue.144674" xlink:type="simple">
+    <relationEntry>A-294-021</relationEntry>
+    <descriptiveNote>
+     <p>Garland, Nicholas, 1935- :[Self portrait]. 1997.</p>
+    </descriptiveNote>
+   </resourceRelation>
+  </relations>
+ </cpfDescription>
+</eac-cpf>
